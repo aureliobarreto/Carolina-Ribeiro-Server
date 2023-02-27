@@ -1,2 +1,2 @@
 # Carolina-Ribeiro-Server
-Projeto de estudo de um servidor para e-commerce com nodejs e express
+Projeto back-end de estudo de um servidor para e-commerce com nodejs e express
