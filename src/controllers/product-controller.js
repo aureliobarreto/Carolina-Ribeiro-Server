@@ -37,3 +37,9 @@ exports.put = (req, res, next) => {
         item: req.body
     })
 };
+
+exports.get = (req, res, next) => {    
+    res.status(200).send({
+        message: 'TA BELEZA!'
+    })
+};
